@@ -1,1 +1,1 @@
-# MVC_Ogrenci_Not
+# MVC_Practice_Ogrenci_Not
